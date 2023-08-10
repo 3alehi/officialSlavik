@@ -1,82 +1,55 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FDB813&height=300&section=header&text=Mohammad%20Abdollahzadeh&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front-end%20developer%20web%20-%20React.js&descAlignY=55&descAlign=50&descColor=000000)
-</div>
+hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-<hr>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 ask me about anything, i am happy to help;
 
-<img align="right" width="380" height="330" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+**languages and tools:**  
 
-<div align="left">
- 
-### Expertises
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-> ### Languages
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="Javascript" 
-title="Javascript"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="36" alt="TypeScript"
-title="TypeScript"/>
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="36" alt="NodeJS"
-title="NodeJS"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML" 
-title="HTML"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS" 
-title="CSS"/>
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
-> ### Frameworks
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" 
-title="React"/>
- <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" alt="jQuery" 
-title="jQuery"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" alt="Sass"
-title="Sass"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-3629018-3030243.png" width="36" alt="Redux"
-title="Redux"/>
-<img src="https://iili.io/H8PZ9UB.png" width="36"  alt="Mui"
-title="Mui"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" alt="Bootstrap"
-title="Bootstrap"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36"  alt="tailwind" title="Tailwind" />
-<img src="https://icons.veryicon.com/png/o/object/material-design-icons-1/regex.png" width="36" alt="Regex"
-title="Regex"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" alt="WordPress"
-title="WordPress"/>
+```txt
+TypeScript   9 hrs 46 mins   ███████████████▓░░░░░░░░░   62.64 %
+JavaScript   4 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 %
+CSS          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+```
 
-> ### Tools
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"
-title="Figma"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="39" alt="Git"
-title="Git"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="39" alt="Vscode"
-title="Vscode"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="37" alt="Linux"
-title="Linux"/>
-</div>
-<hr>
-            
-> ### Connect with me
+<!--END_SECTION:waka-->
 
-<div align="left">
-<a href="mailto:mrdevpct@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" /></a>
-<a href="https://www.linkedin.com/in/devpct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-<a href="https://codepen.io/MohammadAbdollahzadeh" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" width="32" /></a>
-<a href="https://stackoverflow.com/users/18831761/mohammad-abdollahzadeh" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" width="40" /></a>
-<a href="https://www.twitter.com/devpct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
-<a href="https://www.instagram.com/devpct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
-</div>
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<hr>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<div align="center">
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
- 
- 
-  VISITOR COUNT<br>
-  <img src="https://profile-counter.glitch.me/mohammadabdollahzadeh/count.svg" />
 
-</div>
+📈 my github stats
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
